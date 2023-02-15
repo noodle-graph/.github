@@ -1,6 +1,6 @@
 # Noodle 🍜
 
-Maintainable architecture diagrams.
+Architecture diagram that maintains itself.
 
 <img src="https://github.com/noodle-graph/.github/blob/master/img/icon.png" width="150" alt="icon"/>
 
