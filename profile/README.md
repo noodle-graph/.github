@@ -7,3 +7,5 @@ It offers automated architecture diagram generation, graph filtering, user-frien
 Additionally, Noodle is reliant on the best source of truth, which is the code itself, by linking to the source code of the relationships.
 
 <img src="https://github.com/noodle-graph/monorepo/blob/master/docs/img/basicExampleGraph.png" width="400" alt="example"/>
+
+## [Monorepo](https://github.com/noodle-graph/monorepo)
