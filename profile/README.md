@@ -8,4 +8,4 @@ Additionally, Noodle is reliant on the best source of truth, which is the code i
 
 <img src="https://github.com/noodle-graph/monorepo/blob/master/docs/img/basicExampleGraph.png" width="400" alt="example"/>
 
-👉 [Monorepo](https://github.com/noodle-graph/monorepo)
+👉 More details in the [monorepo](https://github.com/noodle-graph/monorepo)
